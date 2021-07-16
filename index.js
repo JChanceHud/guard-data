@@ -23,9 +23,9 @@ app.get('/', async (req, res) => {
     <html>
     <body>
       <div style="display: flex; flex-direction: column">
-        <img src="http://localhost:4000/hopkins.jpg" />
+        <img src="/hopkins.jpg" />
         <div style="height: 8px" />
-        <img src="http://localhost:4000/texas.jpg" />
+        <img src="/texas.jpg" />
       </div>
     </body>
     </html>
